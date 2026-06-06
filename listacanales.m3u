@@ -53,6 +53,6 @@ http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/a1b08878-4881-482a-8c6a-0bf8663f0e1b:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
+https://g5.vxral-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 #EXTINF:-1 tvg-name="TN"
 https://www.youtube.com/c/todonoticias/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png"/> | TodoNoticias.ar |
