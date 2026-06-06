@@ -4,7 +4,7 @@ https://ve.streameasthd.net/tv_publica/tracks-v1a1/mono.m3u8?ip=190.105.123.13&t
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png", Todo Noticias
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/e9cd183a-37e4-4db1-b2d7-5e63974b30da:SCL2/variant/0252c34b3a9e5a76611cedcce23a64df/bandwidth/7070800.m3u8
 #EXTINF:-1 tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" tvg-chno="24.2" tvg-country="AR" group-title="Argentina",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=82dcda03c30b99210fb913fe7db2ee2d
 #EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV
 https://www.youtube.com/c/cronicatv/live
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="Argentina",C5N
@@ -33,5 +33,3 @@ https://pecdl1.streameasthd.net/global/tntsports/index.m3u8?token=d653d6dc2f5089
 https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6f4786bfe353bfde42d04cc5e1e0a7cc14365ef2-26-1780799209-1780745209
 #EXTINF:-1 tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",DSports
 https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6fd2a6f004e5e4702656e0b1da150ffe14a7b3ac-df-1780807971-1780753971
-#EXTINF:-1 tvg-id="",Mission Impossible
-https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
