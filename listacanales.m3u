@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TNT Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png" tvg-id="Encuentro.ar" tvg-chno="22.1" tvg-country="AR" group-title="Argentina",TNT Premium Ⓖ
-https://pecdl1.streameasthd.net/global/tntsports/index.m3u8?token=d653d6dc2f5089d08f1f9282bd913aa66c64d04e-94-1780800110-1780746110&ip=190.105.123.13
-#EXTINF:-1 tvg-name="ESPN Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",ESPN Premium  Ⓖ
-https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6f4786bfe353bfde42d04cc5e1e0a7cc14365ef2-26-1780799209-1780745209
 #EXTINF:-1 tvg-name="TVP" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" tvg-chno="23.1" tvg-country="AR" group-title="Argentina",TVP
-https://edgetvp.global.ssl.fastly.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+https://ve.streameasthd.net/tv_publica/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=eb21cffea812cba673fcdcba356ee9ca2dee509a-1a-1780807251-1780753251
 #EXTINF:-1 tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" tvg-chno="24.2" tvg-country="AR" group-title="Argentina",Canal 26 Ⓨ
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=763d6b9cd360b505fc06571c0d4e3a27
 #EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV Ⓨ
@@ -21,5 +17,11 @@ http://181.13.252.102:8000/play/a06c/index.m3u8
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/5b2c6143-ded5-4ea2-b69b-9ed76d1a1d0d:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
 https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports
+https://pre.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=5b71b7d6e0eb8ca79c80cb59f0d66bcbeee6862f-2d-1780807414-1780753414
 #EXTINF:-1 tvg-name="ESPN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="Argentina",ESPN
 https://pre.streameasthd.net/global/espn/index.m3u8?token=38249b33139e1dd522a071d8a179b9a170867b93-13-1780800775-1780746775&ip=190.105.123.13
+#EXTINF:-1 tvg-name="TNT Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png" tvg-id="Encuentro.ar" tvg-chno="22.1" tvg-country="AR" group-title="Argentina",TNT Premium Ⓖ
+https://pecdl1.streameasthd.net/global/tntsports/index.m3u8?token=d653d6dc2f5089d08f1f9282bd913aa66c64d04e-94-1780800110-1780746110&ip=190.105.123.13
+#EXTINF:-1 tvg-name="ESPN Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",ESPN Premium  Ⓖ
+https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6f4786bfe353bfde42d04cc5e1e0a7cc14365ef2-26-1780799209-1780745209
