@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TVP" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" tvg-chno="23.1" tvg-country="AR" group-title="Argentina",TVP
 https://ve.streameasthd.net/tv_publica/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=eb21cffea812cba673fcdcba356ee9ca2dee509a-1a-1780807251-1780753251
-#EXTINF:-1 tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" tvg-chno="24.2" tvg-country="AR" group-title="Argentina",Canal 26 Ⓨ
+#EXTINF:-1 tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" tvg-chno="24.2" tvg-country="AR" group-title="Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=763d6b9cd360b505fc06571c0d4e3a27
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV Ⓨ
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-chno="24.4" tvg-country="AR" group-title="Argentina",Crónica TV
 https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="Argentina",C5N Ⓨ
+#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-chno="25.2" tvg-country="AR" group-title="Argentina",C5N
 https://www.youtube.com/api/stats/qoe?fmt=135&afmt=140&cpn=CY4y01Z-qu1ie3u7&el=embedded&ns=yt&fexp=v1%2C24004644%2C27058999%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35404%2C65298%2C2878%2C12227%2C25059%2C4174%2C30446%2C18706%2C21437%2C4571%2C5238%2C4434%2C3343%2C1192%2C14896%2C6621%2C897%2C1886%2C23826%2C9500%2C1840%2C34245%2C11471%2C7915%2C5244%2C451%2C30490%2C5021%2C9969%2C10620%2C4657%2C954%2C2754%2C22127%2C2195%2C1626%2C6435%2C11280%2C6964%2C9506%2C7875%2C12579%2C3227%2C838%2C1428%2C5652%2C2412%2C317%2C851%2C4%2C368%2C490%2C2324%2C2630%2C2314%2C8387%2C5244%2C2834%2C160%2C5587%2C186%2C3095%2C374%2C3127%2C5327%2C1041%2C2580%2C7341%2C500%2C928%2C2248%2C273%2C1399%2C886%2C5832%2C13317%2C1961&cl=925473132&live=dvr&seq=3&docid=VWhQ6xspnSc&ei=wRkkatnzMPLa1sQPr8eIsAU&event=streamingstats&latcl=3&osid=AAAAAqluPFI%3AAOeUNAZB_RBiKWZRMy1YDj3cADfcRhMMAw&plid=AAZTlVoGZGkUesDI&cbr=Chrome&cbrver=148.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20260603.06.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&ctmp=agc:t.19782;no_ab.1&vps=20.022:PL&bwm=20.022:1453243:9.016&bwe=20.022:4614425&bat=20.022:1:1&cmt=20.022:3863238.707&bh=20.022:2.609&df=20.022:4&qclc=ChBDWTR5MDFaLXF1MWllM3U3EAM
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
@@ -15,7 +15,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/5b2c6143-ded5-4ea2-b69b-9ed76d1a1d0d:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24
 https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports
 https://pre.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=5b71b7d6e0eb8ca79c80cb59f0d66bcbeee6862f-2d-1780807414-1780753414
@@ -23,5 +23,7 @@ https://pre.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.105.123.13&t
 https://pre.streameasthd.net/global/espn/index.m3u8?token=38249b33139e1dd522a071d8a179b9a170867b93-13-1780800775-1780746775&ip=190.105.123.13
 #EXTINF:-1 tvg-name="TNT Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png" tvg-id="Encuentro.ar" tvg-chno="22.1" tvg-country="AR" group-title="Argentina",TNT Premium Ⓖ
 https://pecdl1.streameasthd.net/global/tntsports/index.m3u8?token=d653d6dc2f5089d08f1f9282bd913aa66c64d04e-94-1780800110-1780746110&ip=190.105.123.13
-#EXTINF:-1 tvg-name="ESPN Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",ESPN Premium  Ⓖ
+#EXTINF:-1 tvg-name="ESPN Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",ESPN Premium
 https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6f4786bfe353bfde42d04cc5e1e0a7cc14365ef2-26-1780799209-1780745209
+#EXTINF:-1 tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",DSports
+https://5q45jojueatb.09193519.net:8443/hls/4jva7tj642f9b.m3u8?s=IjiU_JRbv9Mkbu8bSWJsQg&e=1780784586
