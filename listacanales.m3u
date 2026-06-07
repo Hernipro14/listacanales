@@ -11,16 +11,22 @@ https://www.youtube.com/c/cronicatv/live
 https://www.youtube.com/api/stats/qoe?fmt=135&afmt=140&cpn=CY4y01Z-qu1ie3u7&el=embedded&ns=yt&fexp=v1%2C24004644%2C27058999%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35404%2C65298%2C2878%2C12227%2C25059%2C4174%2C30446%2C18706%2C21437%2C4571%2C5238%2C4434%2C3343%2C1192%2C14896%2C6621%2C897%2C1886%2C23826%2C9500%2C1840%2C34245%2C11471%2C7915%2C5244%2C451%2C30490%2C5021%2C9969%2C10620%2C4657%2C954%2C2754%2C22127%2C2195%2C1626%2C6435%2C11280%2C6964%2C9506%2C7875%2C12579%2C3227%2C838%2C1428%2C5652%2C2412%2C317%2C851%2C4%2C368%2C490%2C2324%2C2630%2C2314%2C8387%2C5244%2C2834%2C160%2C5587%2C186%2C3095%2C374%2C3127%2C5327%2C1041%2C2580%2C7341%2C500%2C928%2C2248%2C273%2C1399%2C886%2C5832%2C13317%2C1961&cl=925473132&live=dvr&seq=3&docid=VWhQ6xspnSc&ei=wRkkatnzMPLa1sQPr8eIsAU&event=streamingstats&latcl=3&osid=AAAAAqluPFI%3AAOeUNAZB_RBiKWZRMy1YDj3cADfcRhMMAw&plid=AAZTlVoGZGkUesDI&cbr=Chrome&cbrver=148.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20260603.06.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&ctmp=agc:t.19782;no_ab.1&vps=20.022:PL&bwm=20.022:1453243:9.016&bwe=20.022:4614425&bat=20.022:1:1&cmt=20.022:3863238.707&bh=20.022:2.609&df=20.022:4&qclc=ChBDWTR5MDFaLXF1MWllM3U3EAM
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="General",El Trece (1080p)
+#EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" tvg-chno="35.1" tvg-country="AR" group-title="Argentina",El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
 http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-id="TelefeRosario.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Undefined",Telefe Rosario [Geo-blocked]
+https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/3840px-Logotipo_de_America_TV.svg.png", América TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/5b2c6143-ded5-4ea2-b69b-9ed76d1a1d0d:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24
 https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports
 https://pre.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=5b71b7d6e0eb8ca79c80cb59f0d66bcbeee6862f-2d-1780807414-1780753414
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="Argentina",ESPN
 https://pre.streameasthd.net/global/espn/index.m3u8?token=38249b33139e1dd522a071d8a179b9a170867b93-13-1780800775-1780746775&ip=190.105.123.13
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png",ESPN 2
@@ -33,6 +39,8 @@ https://pecdl1.streameasthd.net/global/tntsports/index.m3u8?token=d653d6dc2f5089
 https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6f4786bfe353bfde42d04cc5e1e0a7cc14365ef2-26-1780799209-1780745209
 #EXTINF:-1 tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",DSports
 https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.105.123.13&token=6fd2a6f004e5e4702656e0b1da150ffe14a7b3ac-df-1780807971-1780753971
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
@@ -117,8 +125,6 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22.ar@SD" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="Undefined",Canal 22 (720p)
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p)
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Canal34SanJuan.ar@SD" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="General",Canal 34 San Juan (720p)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal79LaCosta.ar@SD" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Undefined",Canal 79 La Costa (240p)
@@ -157,13 +163,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="General",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="Series",Europa Europa
 http://181.119.93.83:8000/play/a1sr/index.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Hispanic America (720p)
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="KpopMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Undefined",Kpop Mix (720p)
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="General",Litus TV (720p)
@@ -210,8 +212,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Undefined",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-id="TelefeRosario.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Undefined",Telefe Rosario [Geo-blocked]
-https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="General",Telemundo Internacional
@@ -220,16 +220,12 @@ http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVTelevision.ar@SD" tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="Undefined",TIV Television (720p)
 https://videohd.live:19360/8008/8008.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN (2160p)
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="Religious",TV Maná Argentina (576p) [Not 24/7]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar@SD" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Undefined",TV Solidaria (576p)
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Education",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (1080p)
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religious",Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar@SD" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve (720p) [Not 24/7]
