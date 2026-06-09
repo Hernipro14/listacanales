@@ -295,3 +295,7 @@ https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X
 https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
 #EXTINF:-1 tvg-logo="https://www.irun.org/images/actualidad-ocio-agenda/agenda/2021/abuztua/rey-leon.jpg" group-title="Película",El Rey León (2019)
 https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
+#EXTINF:-1 tvg-id="El Chavo del 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png", El Chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="Los Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Los-simpson.logoespa%C3%B1ol.png",Los Simpsons
+http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480.m3u8
