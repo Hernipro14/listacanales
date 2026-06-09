@@ -307,3 +307,5 @@ https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Los-simpson.logoespa%C3%B1ol.png",Los Simpsons
 http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480.m3u8
+#EXTINF:-1,el irracional
+https://cdn-2-bsas-arg.cinelatino.tv/cloud/The.Irrational.S01E01.spa.mp4?token=QxiAslRLcg3JzTLd4_fedQ&expires=1781083667
