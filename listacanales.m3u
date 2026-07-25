@@ -42,6 +42,26 @@ https://181.224.200.5:2277/play/a02k/index.m3u8
 https://181.224.200.5:2277/play/a02h/index.m3u8
 #EXTINF:-1,ESPN 7HD
 https://181.224.200.5:2277/play/a02l/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="Live.Event.us" tvg-name="[Argentina - Primera División] Talleres Córdoba vs Newell's Old Boys (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Argentina - Primera División] Talleres Córdoba vs Newell's Old Boys (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce94e/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOTRlOjE3ODUwMTg2MTM3NjU6Y2RubGl2ZXR2LnR2OjFmZmE3ZjMwYzQ3ZWFjNWYuMWU2N2Q3Y2YwNTY1YWNlOWQ2MDMzZGI4ZjBhNzI4OWM5ZjkxMTQ1YTRhMmUzNzA3MmQ1YmNiZGVjNzU1NzJmMQ
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Liga Profesional] Estudiantes Rio Cuarto vs Tigre (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Liga Profesional] Estudiantes Rio Cuarto vs Tigre (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.190/hls/DSSSSAA.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Primera División] Estudiantes Río Cuarto vs Tigre | ES (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Primera División] Estudiantes Río Cuarto vs Tigre | ES (PLYFST)
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn7.zohanayaan.com:1686/hls/do85.m3u8?md5=YvFo33ey0vms-hqjnifQhg&expires=1785013279
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[Argentina Primera División] Newell's Old Boys vs Talleres Córdoba | ES (PLYFST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live Events",[Argentina Primera División] Newell's Old Boys vs Talleres Córdoba | ES (PLYFST)
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn8.zohanayaan.com:1686/hls/do84.m3u8?md5=Sn-7S4gGSzz94qVzeiuIoQ&expires=1785015059
 #EXTINF:-1 tvg-name="TNT Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png" tvg-id="Encuentro.ar" tvg-chno="22.1" tvg-country="AR" group-title="Argentina",TNT Premium Ⓖ
 https://doc1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.105.122.13&token=890797c67122f9c77a75e78a45e5f457386533d7-ac-1780900379-1780846379
 #EXTINF:-1 tvg-name="ESPN Premium Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" tvg-id="Pakapaka.ar" tvg-chno="22.2" tvg-country="AR" group-title="Argentina",ESPN Premium
